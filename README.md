@@ -1,6 +1,6 @@
 # Dashboard practice
 
-Live on: https://wells99.github.io/Pratica-de-Dashboard/
+site is live: https://wells99.github.io/Pratica-de-Dashboard/
 
 With hover effect, sideBar, only html and css. 
 
